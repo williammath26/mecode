@@ -1,0 +1,21 @@
+.container {
+  padding: 20px;
+  text-align: center;
+  background: rgb(131, 145, 207);
+  
+  height: 100vh;
+}
+
+.container a {
+  display: flex;
+  background: rgb(12, 31, 139);
+  width: 50px;
+  padding: 3px;
+  border-radius: 2px;
+  color: rgb(233, 224, 224);
+  text-decoration: none;
+  justify-content: center;
+}
+.container a:hover {
+  background-color: rgb(73, 98, 241);
+}
